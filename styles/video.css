@@ -76,7 +76,7 @@
 
  @media (max-width:750px) {
    .video-layout {
-     grid-template-columns: 1fr 1fr;
+     grid-template-columns: 1fr ;
    }
  }
 
